@@ -1,7 +1,7 @@
 # Data-Analysis-of-Netflix-Show-dataset
 
-## Data Loading 
-## Data Understanding
-## Data Exploration 
-## Data Preparation 
-## Data Analysis - Gaining insights 
+### 1) Data Loading 
+### 2) Data Understanding
+### 3) Data Exploration 
+### 4) Data Preparation 
+### 5) Data Analysis - Gaining insights 
