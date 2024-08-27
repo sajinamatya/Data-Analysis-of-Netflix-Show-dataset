@@ -1,7 +1,7 @@
 # Data-Analysis-of-Netflix-Show-dataset
 
 ## Tools and library used : 
-``` Pandas, Matplotlib, Seaborn ```
+``` Pandas, Matplotlib, missingo ```
 
 ## Steps in Data Analysis 
 ### 1) Data Loading 
